@@ -16,7 +16,7 @@ Building practical web experiences with JavaScript, Node.js, and responsive UI.
 
 I am a Computer Software associate-degree graduate and an independent project builder focused on web development, Persian right-to-left interfaces, and user-facing digital tools. I enjoy turning practical ideas into responsive web experiences and learning by building complete projects.
 
-I am currently interested in **junior web development**, **frontend implementation**, RMoshfeqdev **online customer support / web operations** opportunities.
+I am currently interested in **junior web development**, **frontend implementation**, and **online customer support / web operations** opportunities.
 
 ## Featured Projects
 
